@@ -124,7 +124,7 @@
 
     <section class="about" id="about">
                 <div class="about-img">
-            <img src="doctor.jpg" alt="Meet Our Expert Dentist" style="width: 100%; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+            <img src="doctor.jpg.jpg" alt="Meet Our Expert Dentist" style="width: 100%; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
         </div>
 
         <div class="about-text">
