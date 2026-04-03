@@ -124,7 +124,7 @@
 
     <section class="about" id="about">
         <div class="about-img">
-            <img src="https://images.unsplash.com/photo-1598256989800-ef61ed5ba4aa?auto=format&fit=crop&w=800&q=80" alt="Dr. working">
+            <img src="doctor.jpg alt="Our best doctor ">
         </div>
         <div class="about-text">
             <h2>Meet Your Expert Dentist</h2>
