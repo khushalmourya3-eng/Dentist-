@@ -123,9 +123,10 @@
     </section>
 
     <section class="about" id="about">
-        <div class="about-img">
-            <img src="doctor.jpg.jpg alt="Our best doctor ">
+                <div class="about-img">
+            <img src="doctor.jpg" alt="Meet Our Expert Dentist" style="width: 100%; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
         </div>
+
         <div class="about-text">
             <h2>Meet Your Expert Dentist</h2>
             <p>At SmileCare Clinic, we believe that a healthy smile is the foundation of a healthy life. Led by highly experienced specialists, our clinic uses the latest state-of-the-art equipment to ensure precise diagnostics and painless treatments.</p>
