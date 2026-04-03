@@ -142,7 +142,7 @@
     <section class="contact-cta">
         <h2>Ready for a healthier smile?</h2>
         <p style="margin-bottom: 30px; font-size: 1.2rem;">Don't let dental pain hold you back. Schedule your visit today.</p>
-        <a href="https://wa.me/919876543210" class="btn" style="background: white; color: var(--primary) !important; font-size: 1.2rem; padding: 15px 30px;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
+        <a href="https://wa.me/917740834806" class="btn" style="background: white; color: var(--primary) !important; font-size: 1.2rem; padding: 15px 30px;"><i class="fa-brands fa-whatsapp"></i> Chat on WhatsApp</a>
     </section>
 
     <footer id="contact">
@@ -158,8 +158,8 @@
         </div>
         <div class="footer-col">
             <h3>Contact Us</h3>
-            <p><i class="fa-solid fa-phone"></i> +91 98765 43210</p>
-            <p><i class="fa-solid fa-envelope"></i> appointment@smilecare.com</p>
+            <p><i class="fa-solid fa-phone"></i> +91 77408 34806</p>
+            <p><i class="fa-solid fa-envelope"></i> khushalmourya3@gmail.com</p>
         </div>
         <div class="bottom-bar">
             &copy; 2026 SmileCare Dental Clinic. Developed by Expert Web Solutions.
