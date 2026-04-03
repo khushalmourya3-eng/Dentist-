@@ -124,7 +124,7 @@
 
     <section class="about" id="about">
         <div class="about-img">
-            <img src="doctor.jpg alt="Our best doctor ">
+            <img src="doctor.jpg.jpg alt="Our best doctor ">
         </div>
         <div class="about-text">
             <h2>Meet Your Expert Dentist</h2>
